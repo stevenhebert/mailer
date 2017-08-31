@@ -86,7 +86,7 @@
 							</div>
 
 							<!-- google reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="6LeC5y4UAAAAAHSjm5WzWqKSNb_tcpyPvK289EPF"></div>
+							<div class="g-recaptcha" data-sitekey="6LfQ6S4UAAAAADR_32VVk49wQON-NQrNribdkJls"></div>
 
 							<button class="btn btn-default" type="reset">Reset</button>
 							<button class="btn btn-info" type="submit">Submit</button>
@@ -103,7 +103,7 @@
 
 		<footer>
 			<div class="container">
-				<a href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a> | <a href="https://github.com/rlewis2892/pwp-form-demo" target="_blank">GitHub</a>
+				example validated mailer
 			</div>
 		</footer>
 	</body>
