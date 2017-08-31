@@ -30,7 +30,19 @@
 
 		<title>PWP Form Demo</title>
 	</head>
-	<body>
+	<body class="sfooter">
+		<div class="sfooter-content">
+
+			<header>
+				<div class="container">
+					<h1>PWP Form Demo</h1>
+				</div>
+			</header>
+
+			<main class="container">
+				<div class="row">
+					<div class="col-sm-6">
+
 
 		<!-- begin contact forum -->
 		<form class="form-horizontal well" action="email.php">
