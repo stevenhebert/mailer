@@ -1,2 +1,3 @@
 # mailer
-validated mailer
+
+validated mailer example
